@@ -104,4 +104,4 @@ jobs:
 
           # Tắt sạch
           Stop-Process -Id $ngrokProcess.Id -Force -ErrorAction SilentlyContinue
-          Write-Host "ĐÃ TỰ ĐỘNG TẮT sau đúng 1 NGÀY - Eco Mode hoàn tất!”
+          Write-Host "ĐÃ HẾT 24 GIỜ - TỰ ĐỘNG TẮT RDP!"
